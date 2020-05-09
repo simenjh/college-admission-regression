@@ -12,7 +12,6 @@ Passing plot_cost=True to college_admission() plots the training cost as a funct
 
 
 Dataset:
-
 [Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
  
