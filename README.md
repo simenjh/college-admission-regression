@@ -1,4 +1,4 @@
-# Predicting college admission chances using linear regression
+## Predicting college admission chances using linear regression
 
 college_admission() in college_admission.py learns the parameters for the linear hypothesis through gradient descent.
 
