@@ -6,8 +6,6 @@ college_admission() in college_admission.py learns the parameters for the linear
 * The data is preprocessed using sklearn.
 
 
-Passing plot_X=True to college_admission() will reduce the feature space from 7 to 1 using PCA, and plot the data along with the dependent variable y.
-
 Passing plot_cost=True to college_admission() plots the training cost as a function of iterations. 
 
 
